@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Geometry Page</title>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+</head>
+
+<body>
+
+<h1>My Geometry Page</h1>
+
+<p>Welcome to my geometry website.</p>
+
+<h2>Pythagorean Theorem</h2>
+
+$$
+a^2 + b^2 = c^2
+$$
+
+<h2>Triangle Centers</h2>
+
+<p>The centroid, circumcenter and orthocenter lie on the Euler line.</p>
+
+</body>
+</html>
